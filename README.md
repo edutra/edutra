@@ -13,7 +13,7 @@ I’m a computer science student nearing the end of my bachelor's degree. I have
 - 🐍 My language of choice for coding is **Python**. 
 - 🦀 I’m working up the courage to learn **Rust**. 
 
-## 🔧 Currently Learning
+## 📚 Currently Learning
 
 - **API Development**: Learning how to code APIs using **FastAPI**.
 - **Machine Learning**: Exploring algorithms and data analysis techniques.
