@@ -4,7 +4,7 @@ I’m a computer science student nearing the end of my bachelor's degree. I have
 
 ##  About Me
 
--  Almost graduated with a Bachelor's degree in Computer Science (expected by the end of this year).
+-  Bachelor's degree in Computer Science.
 -  Enthusiast of **Artificial Intelligence**.
 -  Deep diving into **Linux**.
 -  Avid player of **tabletop RPGs**.
